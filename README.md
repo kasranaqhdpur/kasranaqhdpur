@@ -18,9 +18,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasranaqhdpur&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-  <h1>
+  <h2>
     CONTECT ME :
-    - TELEGRAM : **@kasradevai**
-    - EMAIL : **kasranaqhdpur@gmail.com**
-  </h1>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasranaqhdpur@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kasradevai)
+  </h2>
 <hr>
