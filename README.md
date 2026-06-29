@@ -23,11 +23,12 @@
     <p align="left">
   <a href="https://t.me/kasradevai">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="24" height="24" style="vertical-align: middle;" />
-    @YourUsername
+    @kasradevai
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kasranaqhdpur@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="24" height="24" style="vertical-align: middle;" />
+    kasranaqhdpur@gmail.com
   </a>
 </p>
   </h2>
