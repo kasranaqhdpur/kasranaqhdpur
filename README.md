@@ -20,7 +20,15 @@
 </p>
   <h2>
     CONTECT ME :
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasranaqhdpur@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kasradevai)
+    <p align="left">
+  <a href="https://t.me/kasradevai">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="24" height="24" style="vertical-align: middle;" />
+    @YourUsername
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kasranaqhdpur@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="24" height="24" style="vertical-align: middle;" />
+  </a>
+</p>
   </h2>
 <hr>
