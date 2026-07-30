@@ -9,7 +9,7 @@
   Hi, I'm kasra i work on AI developer and i am femiliar whit the principles Ai engineering 
   <br>
   <br>
-  🔬 Ai researcher ...
+  🔬 Ai DEV ...
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
