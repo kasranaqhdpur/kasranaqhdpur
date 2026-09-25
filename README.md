@@ -42,4 +42,11 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <h2 align="center">
+</p>
+
+<h2 align="center">⚡ Activity ⚡</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasra&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<hr>
