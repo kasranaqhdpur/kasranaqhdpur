@@ -50,7 +50,12 @@
 <h2 align="center">⚡ Activity ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasranaqhdpur&theme=react-dark&bg_color=20232a&hide_border=true&area=true&days=30" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kasranaqhdpur&show_icons=true&theme=react&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=kasranaqhdpur&theme=react&background=20232a&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasranaqhdpur&layout=compact&theme=react&bg_color=20232a&hide_border=true" width="60%"/>
 </p>
 
 <hr>
