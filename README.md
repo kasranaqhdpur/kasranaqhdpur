@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kasranaqhdpur.kasranaqhdpur">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -47,6 +47,17 @@
 <h2 align="center">⚡ Activity ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasra&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasranaqhdpur&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasranaqhdpur&show_icons=true&theme=react&bg_color=20232a&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=kasranaqhdpur&theme=react&background=20232a&hide_border=true" width="48%"/>
+</p>
+
+<h2 align="center">🏆 Trophies 🏆</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasranaqhdpur&theme=darkhub&no-frame=true&row=1&column=6" width="100%"/>
 </p>
 <hr>
